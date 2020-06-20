@@ -82,3 +82,12 @@ class Solution {
  * int param_1 = obj.pick(target);
  */
 ```
+
+**Tip :**
+To better understand the second implementation, run through some examples. 
+e.g. int[] nums = [1, 2, 3] , target = 3
+e.g. int[] nums = [1, 2, 3, 3] , target = 3
+e.g. int[] nums = [1, 2, 3, 3, 3] , target = 3
+
+# References :
+https://www.youtube.com/watch?v=Tt1j0mVzHdg
